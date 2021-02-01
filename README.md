@@ -24,6 +24,7 @@ my first projects
   
   **Iant Logo :**
     ![iant](iant.png)
+    ![iant](IMG_20191124_232255.png)
    
    [iant website](https://www.iantindia.com/)
   
