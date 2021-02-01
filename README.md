@@ -7,7 +7,7 @@ my first projects
 
 ### Hardware & Networking Courses :
 
-** Microsoft Office **
+**Microsoft Office**
 
   + Notepad
   - Wordpad
@@ -15,14 +15,14 @@ my first projects
   + Spredsheet
   + excel
   
- ** SCSU **
+ **SCSU**
   + opertaing systems
   + security & privacy
   + Threats
   + Social engineering
   + phishing
   
-  Iant Logo :
+  **Iant Logo :**
     ![iant](iant.png)
    
    [Google](https://www.iantindia.com/)
