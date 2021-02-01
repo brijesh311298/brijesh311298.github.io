@@ -92,7 +92,7 @@ Conclusion
 Even though markdown is a small and deliberately simple specification, it can be a little confusing to get started with. The best way to learn is to use a cheat sheet and write your Markdown document. You can update your README.md on GitHub, and you can get a lot of support from your editors’ built-in functions. As a side note, GitHub also supports emojis which you can add to your document. You can use the cheat sheet to find which ones they are.
 
 Download Markdown-CheatSheetHere
-
+                  
 
 
 ABOUT THE AUTHOR
