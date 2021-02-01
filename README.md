@@ -27,7 +27,4 @@ my first projects
    
    [iant website](https://www.iantindia.com/)
       
-  **YouTube video :**
-  
-  **Iant Photo :**
-     ![iant ](phone storage/picture/screenshots/IMG_20191019_100834.jpg)
+
