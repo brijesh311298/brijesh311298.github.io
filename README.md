@@ -27,7 +27,8 @@ my first projects
     ![iant](IMG_20191124_232255.jpg)
   
   **Videos :**
-    [![IMAGE ALT TEXT HERE](https://github.com/brijesh311298/brijesh311298.github.io/blob/main/WhatsApp%20Video%202021-02-01%20at%209.59.18%20AM.mp4)]
+    [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=zing4uQ3dR4)
+
 
    [iant website](https://www.iantindia.com/)
   
