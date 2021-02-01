@@ -29,7 +29,8 @@ my first projects
   
   **Dhaval Logo :**
    IANT Manager, Ahmadabad
-   Redhat : Certificate of Appreciation
+  
+ Redhat : Certificate of Appreciation
 
 
 
